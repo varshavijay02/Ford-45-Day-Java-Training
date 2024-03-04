@@ -1,0 +1,9 @@
+love : 3
+orange : 1
+all : 2
+apple : 1
+in : 1
+i : 4
+hate : 1
+vegetables : 1
+life : 1
